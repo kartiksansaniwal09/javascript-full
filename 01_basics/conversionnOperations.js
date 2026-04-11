@@ -14,16 +14,25 @@
  true => 1
  flase => 0
 */
-let isLoggedIn = ""
-let booleanIsLOoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLOoggedIn);
+// let isLoggedIn = ""
+// let booleanIsLOoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLOoggedIn);
 /*
 1 => true; 0 => flase;
 "" => false
 "jackma" => true 
 
 */
-let aNumber = 44
-let stringNumber = String(aNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let aNumber = 44
+// let stringNumber = String(aNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+//***************** OPERATIONS ************************************ */
+// console.log("1" + 2)
+// console.log(1+ "2")
+// console.log("1" + 2 + 2)
+// console.log(1 + 2 + "2")
+
+
+// console.log(+true);
+// console.log(+"");
